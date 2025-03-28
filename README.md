@@ -3,6 +3,10 @@
 
 A modern React application built with TypeScript that displays products from the DummyJSON API.
 
+## Live URL
+
+You can view the live application at [https://react-product-catelog.netlify.app](https://react-product-catelog.netlify.app).
+
 ## Features
 
 - **Product List**: Browse products with pagination
@@ -29,3 +33,4 @@ The application uses a two-pane design:
 The project uses the following API endpoints:
 - Fetch All Products: https://dummyjson.com/products
 - Fetch Product by ID: https://dummyjson.com/products/{id}
+
